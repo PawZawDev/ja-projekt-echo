@@ -1,0 +1,12 @@
+Number of theards: 2
+Number of tries: 300
+
+ASM
+Sum of times:184
+Average time:0.613333
+Total time: 495
+
+CPP
+Sum of times:1699
+Average time:5.66333
+Total time: 1989
